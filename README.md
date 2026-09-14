@@ -14,12 +14,12 @@ macro-financial questions.
 - 🛠️ Tools: MATLAB · R · Stata · Python · LaTeX · Git
 
 ### Selected projects
-- **[Financial Time Series](https://github.com/mariagnoli/FinancialTimeseries)**
+- **[Financial Time Series]**
   — GARCH / GJR-GARCH volatility modelling and out-of-sample VaR / Expected
   Shortfall (Python)
-- **[Machine Learning](https://github.com/mariagnoli/MachineLearning)**
+- **[Machine Learning]**
   — output-gap estimation with a large non-stationary dynamic factor model (R)
-- **[Statistics for High-Dimensional Data](https://github.com/mariagnoli/Statistics_for_High_Dimensional_Data)**
+- **[Statistics for High-Dimensional Data]**
   — PCA, factor and cluster analysis (R)
 
 📫 [LinkedIn] (www.linkedin.com/in/maria-gnoli-636aa82aa) · mariagnoli@icloud.com
